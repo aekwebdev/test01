@@ -225,3 +225,6 @@ function next() {
   	document.getElementById("addsText").innerHTML = `<a href="#" id="add-link">${addsSliderImages[x].addText}</a>`; 
 }
 
+
+
+
