@@ -235,4 +235,3 @@ function next() {
 }
 
 
-// test 15.07.2019
