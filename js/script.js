@@ -233,3 +233,6 @@ function next() {
     document.getElementById("addsText").setAttribute("src", addsSliderImages[x].imgSource);
     document.getElementById("addsText").innerHTML = `<a href="#" id="add-link">${addsSliderImages[x].addText}</a>`;
 }
+
+
+// test 15.07.2019
